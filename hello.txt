@@ -5,5 +5,11 @@ master test
 hot fix test
 fva
 agawrwef
+
+本地修改
 远程修改
+
 本地修改完想push到网页修改完的部分
+测试push的时候都修改的本地修改
+测试push冲突的远程网页提交
+
