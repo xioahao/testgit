@@ -3,21 +3,7 @@ hello hot-fix
 
 master test
 hot fix test
-fva
+this is in idea-branch
 agawrwef
-
 本地修改
 远程修改
-
-本地修改完想push到网页修改完的部分
-测试push的时候都修改的本地修改
-测试push冲突的远程网页提交
-新成员修改
-忘记删除凭证了再改一次
-新成员网页修改
-
-团队外成员修改
-测试ssh用于免密push
-
-在idea进行修改
-控制版本
